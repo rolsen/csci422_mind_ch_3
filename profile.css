@@ -58,7 +58,6 @@ a:visited {
 #photo {
 	float: left;
 	padding: 2em;
-
 }
 
 #age1, #gender1 {
@@ -83,10 +82,18 @@ a:visited {
 	position: relative;
 	left: 0em;
 	top: -7em;
+}
 
+#edit {
+	position: relative;
+	//top: -24.5em;
+	//left: 9em;
+	left: -12em;
+	top: -3em;
 }
 
 */
+
 
 
 
