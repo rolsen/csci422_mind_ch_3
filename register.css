@@ -8,6 +8,17 @@
 	float:left;
 	font-weight: bold;
 }
+
+#name, #age, #gender, #about {
+	padding-bottom: .5em;
+	font-weight: bold;
+}
+
+#man {
+	
+	font-weight: normal;
+}
+
 #dog,  #cat, #bird, #fish, #rodent, #reptile{ 
 	float: left;
 	padding-right: 20px;
