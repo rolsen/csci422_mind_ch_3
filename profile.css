@@ -6,7 +6,7 @@ body{
 	background-repeat: no-repeat;
 }
 
-a:link{ 
+a:link{
 	color:003300;
 }
 a:visited {
@@ -50,10 +50,15 @@ a:visited {
 	z-index:4;
 }
 
+#text-info {
+	float: left;
+	padding: 2em;
+}
+
 #photo {
 	float: left;
 	padding: 2em;
-	
+
 }
 
 #age1, #gender1 {
@@ -66,6 +71,7 @@ a:visited {
 	float: left;
 }
 
+/*
 #age, #gender {
 	position: relative;
 	left: -12em;
@@ -79,6 +85,8 @@ a:visited {
 	top: -7em;
 
 }
+
+*/
 
 
 
