@@ -5,6 +5,14 @@ body{
 	background-image: -ms-linear-gradient(top left, #F7F7F7 0%, #C9DAF8 30%);
 	background-repeat: no-repeat;
 }
+
+a:link{ 
+	color:003300;
+}
+a:visited {
+	color:008800;
+}
+
 #navigation ul {
 	line-height:	1.0;
 	list-style-type: none;

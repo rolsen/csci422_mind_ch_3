@@ -6,6 +6,13 @@ body{
 	background-repeat: no-repeat;
 }
 
+a:link{ 
+	color:003300;
+}
+a:visited {
+	color:008800;
+}
+
 #title {
 	text-align: left;
 }
