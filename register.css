@@ -1,9 +1,7 @@
-#title {
+#title, #form, #submit {
 	text-align:left;
 }
-#form {
-	text-align:left;
-}
+
 #pets {
 	float:left;
 	font-weight: bold;
@@ -24,8 +22,4 @@
 	padding-right: 20px;
 	font-weight: normal;
 	
-}
-
-#submit {
-	text-align: left;
 }
