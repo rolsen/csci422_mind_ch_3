@@ -1,0 +1,16 @@
+#title {
+	text-align:left;
+}
+#form {
+	text-align:left;
+}
+#pets {
+	float:left;
+}
+#dog,  #cat, #bird, #fish, #rodent, #reptile{ 
+	float: left;
+}
+
+#submit {
+	text-align: left;
+}
