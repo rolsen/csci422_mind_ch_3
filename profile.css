@@ -6,6 +6,10 @@ body{
 	background-repeat: no-repeat;
 }
 
+#profile-block {
+	width:	950px;
+}
+
 .profile-menu-header {
 	margin-top:	2px;
 	float:	right;
@@ -81,6 +85,7 @@ a.menu-item:active span {
 
 
 #text-info {
+	width: 500px;
 	float: left;
 	padding: 2em;
 }
