@@ -6,6 +6,21 @@ body{
 	background-repeat: no-repeat;
 }
 
+.profile-menu-header {
+	margin-top:	2px;
+	float:	right;
+}
+
+#navigation {
+	padding:	10px;
+	border-style:	solid;
+	border-width:	1px;
+	background-color:	#FFF;
+}
+
+a.profile-menu-item {
+	padding:	5px;
+}
 
 a {
     font: normal 14px arial, sans-serif;
