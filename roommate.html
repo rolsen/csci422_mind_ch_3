@@ -21,5 +21,34 @@
 		<div id="title">
 			<h1>Roommate Search</h1>
 		</div>
+		<div id="content">
+			<form>
+				<div id="loc">
+					<label>City: <input type="text" id="city"></label><br/>
+					<label>State: <input type="text" id="state" maxlength="2" size="2"></label><br/>
+					<label>Zip: <input type="text" id="zip" maxlength="5" size="5"></label>
+				</div>
+				<div id="roommate_options">
+					<div id="pets">
+						<label>Pets: 
+							<input type="radio" name="pet" value="yes" id="yes" />
+							<label for="yes"> Yes</label>
+							<input type="radio" name="pet" value="no" id="no" />
+							<label for="no"> No</label>
+						</label>
+					</div>
+					<div id="gender">
+						<input type="checkbox" name="gender" value="male" />Male
+						<input type="checkbox" name="gender" value="female" />Female 
+					</div>
+					<div id="age">
+						Ages: <input type="text" maxlength="2" size="2"> to <input type="text" maxlength="2" size="2">
+					</div>
+				</div>
+				<div id="submit">
+					<input type="submit" value="Submit"/>
+				<div>
+			</form>
+		</div>
 	</body>
 </html>
