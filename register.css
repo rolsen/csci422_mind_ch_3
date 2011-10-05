@@ -6,6 +6,10 @@ body{
 	background-repeat: no-repeat;
 }
 
+textarea {
+	resize:	none;
+}
+
 .profile-menu-header {
 	margin-top:	2px;
 	float:	right;
@@ -79,6 +83,20 @@ a.menu-item:active span {
 }
 /* End of Button Stuff */
 
+input.two-digits {
+	width:	2em;
+}
+input.four-digits {
+	width:	4em;
+}
+#fname {
+	margin-right:	1em;
+}
+
+.dob {
+	font-weight: normal;
+	margin-right:	.5em;
+}
 
 #title {
 	text-align: left;

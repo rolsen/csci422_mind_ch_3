@@ -23,10 +23,19 @@
 		</div>
 			<form id="form">
 			<div id="name">
-				<label>Name: <input type="text" id="name"  style="height: 1.6em; vertical-align: middle"; ></label>
+				<label name="fname">First Name: <input type="text" id="fname"  style="height: 1.6em; vertical-align: middle"; ></label>
+				<label>Last Name: <input type="text" id="lname"  style="height: 1.6em; vertical-align: middle"; ></label>
 			</div>
-			<div id="age">
-				<label>Age: <input type="text" id="age"  style="height: 1.6em; vertical-align: middle;" maxlength="3" size="1em"></label>
+			<div id="age">Date of Birth<br/>
+				<label class="dob">Month:
+				  <input type="text" class="two-digits" name="month" maxlength="2">
+				</label>
+				<label class="dob">Day:
+				  <input type="text" class="two-digits" name="day" maxlength="2">
+				</label>
+				<label class="dob">Year:
+				  <input type="text" class="four-digits" name="year" maxlength="4">
+				</label>
 			</div>
 			<div id="gender">
 				<label>Gender: </label>
