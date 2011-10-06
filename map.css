@@ -86,3 +86,8 @@ a.menu-item:active span {
 #house-desc {
 	float: left;
 }
+
+#banner {
+	text-align: center;
+	padding-bottom: .5em;
+}

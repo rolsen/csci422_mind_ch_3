@@ -127,3 +127,7 @@ input.four-digits {
 	font-weight: normal;
 
 }
+#banner {
+	text-align: center;
+	padding-bottom: .5em;
+}

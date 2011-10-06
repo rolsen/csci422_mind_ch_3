@@ -109,3 +109,7 @@ a.menu-item:active span {
 .text-info {
 	background-color:	#FFF;
 }
+#banner {
+	text-align: center;
+	padding-bottom: .5em;
+}

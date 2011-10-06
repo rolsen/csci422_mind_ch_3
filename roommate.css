@@ -82,3 +82,8 @@ a.menu-item:active span {
 #loc, #pets, #age, #gender {
 	padding-bottom: .5em;
 }
+
+#banner {
+	text-align: center;
+	padding-bottom: .5em;
+}
