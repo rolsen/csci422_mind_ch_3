@@ -94,16 +94,25 @@ a.menu-item:active span {
 	width:	150px;
 }
 */
+.about-span {
+	margin-left:	2em;
+	padding: 1em;
+}
 
 .about-text {
 	position:	relative;
 	top:	0em;
-	margin-left: 1em;
+	margin-left: 2em;
+	padding: 1em;
 }
 
 .pets-text {
 	position:	relative;
 	top:	0em;
+}
+
+.pet-list {
+	width: 40px;
 }
 
 .text-info {
