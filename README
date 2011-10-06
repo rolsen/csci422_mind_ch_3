@@ -1,0 +1,5 @@
+The site/app we have designed an interface for can be viewed by visiting any of the pages (by typing them into the URL).
+
+The site/app is a theoretical housing and roommate tracker. Users would be able to create a profile, add roommates to their group, and track different houses.
+
+The site/app is purely static content. Thus, the logout button and similar functions do not work.
