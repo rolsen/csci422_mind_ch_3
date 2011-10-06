@@ -80,3 +80,32 @@ a.menu-item:active span {
     padding: 6px 0 4px 18px; /* push text down 1px */
 }
 /* End of Button Stuff */
+
+.name {
+	text-align: left;
+}
+
+/*
+.age {
+	width:	100px;
+}
+
+.age-value {
+	width:	150px;
+}
+*/
+
+.about-text {
+	position:	relative;
+	top:	0em;
+	margin-left: 1em;
+}
+
+.pets-text {
+	position:	relative;
+	top:	0em;
+}
+
+.text-info {
+	background-color:	#FFF;
+}
