@@ -39,7 +39,7 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-	color: #003300; /* TODO: get better color here */
+	color: #003300;
     text-decoration: underline;
 }
 
@@ -105,29 +105,6 @@ a.menu-item:active span {
 	float: left;
 }
 
-/*
-#age, #gender {
-	position: relative;
-	left: -12em;
-	top: 12em;
-}
-
-
-#me, #pets {
-	position: relative;
-	left: 0em;
-	top: -7em;
-}
-
-#edit {
-	position: relative;
-	//top: -24.5em;
-	//left: 9em;
-	left: -12em;
-	top: -3em;
-}
-
-*/
 #banner {
 	text-align: center;
 	padding-bottom: .5em;

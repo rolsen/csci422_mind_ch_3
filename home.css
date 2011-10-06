@@ -35,7 +35,7 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-	color: #003300; /* TODO: get better color here */
+	color: #003300;
     text-decoration: underline;
 }
 
@@ -85,15 +85,6 @@ a.menu-item:active span {
 	text-align: left;
 }
 
-/*
-.age {
-	width:	100px;
-}
-
-.age-value {
-	width:	150px;
-}
-*/
 .about-span {
 	margin-left:	2em;
 	padding: 1em;
